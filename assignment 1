@@ -1,3 +1,10 @@
+// Name: Harpreet Kaur
+// Student ID : 201906716
+// Date Submitted: 19 March,2021
+// Class IN2203 G2
+// Assignment 1: The Gambling Game
+
+
 import java.util.*;
 public class MainApplication{
 public static void main(String[] args){
